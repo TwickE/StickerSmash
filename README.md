@@ -2,7 +2,7 @@
 StickerSmash is an app for **iOS**, **Android** and **Web** built in **React Native** with **Expo**
 
 ## StickerSmash Home, Sticker Menu and Save Screens
-![StickerSmash Home, Sticker Menu and Save Screens](https://github.com/TwickE/ReadmeImages/blob/main/StickerSmash.png?raw=true)
+![StickerSmash Home, Sticker Menu and Save Screens](https://github.com/user-attachments/assets/d714c489-3aad-4b22-838b-a8fad8295244)
 
 ## Experience StickerSmash by yourself
 
